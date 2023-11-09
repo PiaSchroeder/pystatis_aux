@@ -1,0 +1,5 @@
+# User credentials
+/.env
+
+# Data folder
+data/
